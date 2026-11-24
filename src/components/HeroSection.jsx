@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { ArrowDownRight, Download, Mail, Sparkles, Terminal, Code2, Database, BrainCircuit, ExternalLink, GraduationCap, MapPin, CheckCircle2 } from 'lucide-react';
+import { ArrowDownRight, Download, Mail, ExternalLink, GraduationCap, MapPin, CheckCircle2 } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './SocialIcons';
 import { personalDetails } from '../data/portfolioData';
 

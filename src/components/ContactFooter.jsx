@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { personalDetails } from '../data/portfolioData';
-import { Mail, Phone, Send, Copy, Check, Terminal, FileText, ArrowUp, ExternalLink, MapPin, Sparkles } from 'lucide-react';
+import { Mail, Phone, Send, Copy, Check, FileText, ArrowUp, ExternalLink } from 'lucide-react';
 import { GithubIcon, LinkedinIcon } from './SocialIcons';
 
 export default function ContactFooter() {

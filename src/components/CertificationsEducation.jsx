@@ -1,6 +1,6 @@
 import React from 'react';
 import { certificatesList } from '../data/portfolioData';
-import { Award, ExternalLink, Calendar, CheckCircle2, ShieldCheck, Lock } from 'lucide-react';
+import { Award, ExternalLink, Calendar, ShieldCheck } from 'lucide-react';
 
 export default function CertificationsEducation() {
   return (

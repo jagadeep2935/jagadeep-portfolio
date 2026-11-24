@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { communityEngagement } from '../data/portfolioData';
-import { ShieldCheck, Users, ExternalLink, CheckCircle2, Sparkles, Calendar, Award } from 'lucide-react';
+import { Users, ExternalLink, CheckCircle2, Calendar, Award } from 'lucide-react';
 
 export default function CommunityImpact() {
-  const [activeTab, setActiveTab] = useState('program');
 
   return (
     <section id="community" className="py-24 bg-[#090A0F] relative border-t border-white/5">

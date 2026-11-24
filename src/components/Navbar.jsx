@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, Download, ExternalLink, Terminal, ArrowUpRight } from 'lucide-react';
+import { Menu, X, Download } from 'lucide-react';
 import { personalDetails } from '../data/portfolioData';
 
 export default function Navbar({ activeSection }) {

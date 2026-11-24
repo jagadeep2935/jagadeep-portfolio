@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { personalDetails } from '../data/portfolioData';
-import { FileText, Download, Eye, X, CheckCircle2, ExternalLink } from 'lucide-react';
+import { Download, Eye, X, CheckCircle2, ExternalLink } from 'lucide-react';
 
 export default function ResumeSection({ isModalOpen, setIsModalOpen }) {
   const [downloadSuccess, setDownloadSuccess] = useState(false);

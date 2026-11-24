@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { skillCategories } from '../data/portfolioData';
-import { Code2, Globe, Database, BrainCircuit, HeartHandshake, Sparkles, Check, Search, Terminal } from 'lucide-react';
+import { Code2, Globe, Database, BrainCircuit, HeartHandshake, Sparkles, Search, Terminal } from 'lucide-react';
 
 export default function StackConstellation() {
   const [activeCategoryId, setActiveCategoryId] = useState('all');

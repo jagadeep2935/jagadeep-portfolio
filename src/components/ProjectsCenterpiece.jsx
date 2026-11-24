@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { projectsData } from '../data/portfolioData';
-import { ExternalLink, ArrowRight, Activity, Database, Cpu, Sparkles, CheckCircle2, Users, Calendar, Layers, BarChart3, GitFork } from 'lucide-react';
+import { Activity, Database, Cpu, Sparkles, CheckCircle2, Users, Calendar } from 'lucide-react';
 import { GithubIcon } from './SocialIcons';
 
 // --- WORLD 1: AURA TELEMEDICINE INTERACTIVE ARCHITECTURE SIMULATOR ---
